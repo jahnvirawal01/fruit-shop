@@ -1,0 +1,1 @@
+[2025-08-20 13:04:01] Manager added kiwi (Qty: 2, Price: 13.0)
